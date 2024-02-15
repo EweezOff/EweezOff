@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EweezOff
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning Java, Web, NodeJS
-- 💞️ I’m looking to collaborate on my server
-- 📫 How to reach me -> Discord : Eweez#4159
+- 👀 I’m interested in development and cybersecurity
+- 🌱 I’m currently learning Web, Luau (Roblox)
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me -> Discord : Eweez
