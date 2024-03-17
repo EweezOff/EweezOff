@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EweezOff
 - 👀 I’m interested in development and cybersecurity
-- 🌱 I’m currently learning Web, Luau (Roblox)
+- 🌱 I’m currently learning Web, Luau, Java
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me -> Discord : Eweez
