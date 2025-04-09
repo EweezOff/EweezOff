@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @EweezOff
-- 👀 I’m interested in development and cybersecurity
-- 🌱 I’m currently learning Web, Luau, Java
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in development, cybersecurity, server management and entrepreneurship.
 - 📫 How to reach me -> Discord : Eweez
